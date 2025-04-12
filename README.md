@@ -4,7 +4,7 @@ This is a machine learning project that uses **Logistic Regression** to classify
 
 ## 📂 Dataset Info
 
-- **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks))
+- **Source**: [kaggle - sonar-rock-vs-mine-prediction](https://www.kaggle.com/code/manishkr1754/sonar-rock-vs-mine-prediction)
 - **Rows**: 208
 - **Columns**: 60 numeric features + 1 label (R/M)
 - **Label**:
